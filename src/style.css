@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(158, 45, 45);
+}
+
+
+
+
+h1,p { 
+    text-align: center;
+   
+}
+
+.divPoll{
+    text-align: center;
+}
+
+.divLogo{
+    width: 5%;
+    height: 5%;
+    padding-top: 1%;
+    padding-left: 1%;
+}
